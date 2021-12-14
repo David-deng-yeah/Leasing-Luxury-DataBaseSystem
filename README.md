@@ -1,11 +1,13 @@
 ﻿@[toc]
 
->（摆烂作品，xdm轻喷）
 [github链接](https://github.com/David-deng-yeah/Leasing_Luxury-DBSystem)
 ##  实验环境
 PHP == 5.5.12
+
 Mysql == 15.6.17
+
 Operate system == Win 10 professtion
+
 Node.js == 14.17.3
 
 
