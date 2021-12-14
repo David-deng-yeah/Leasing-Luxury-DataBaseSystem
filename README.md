@@ -1,6 +1,5 @@
 ﻿@[toc]
 
->具体代码见我的GitHub仓库
 >（摆烂作品，xdm轻喷）
 [github链接](https://github.com/David-deng-yeah/Leasing_Luxury-DBSystem)
 ##  实验环境
