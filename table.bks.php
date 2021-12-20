@@ -57,13 +57,12 @@ $parameters = substr($parameters, 0, -1); // 去掉 , 字符
 //     $sql .= $parameters;    // 所有参数
 // }
 $sql .= $parameters;
-$sql .= ')';
+$sql .= ');';
 
 // 执行操作
-// echo '<td>'.$sql.'</td>';
+//echo '<td>'.$sql.'</td>';
 $res = mysqli_query($conn, $sql);
 echo '<script>alert("操作成功");window.location.href=document.referrer;</script>';
-
 // 获取 sql 接口的返回信息
 // $fetch_array = mysqli_fetch_array($res);
 // $st = $fetch_array[0];
