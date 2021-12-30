@@ -1,6 +1,4 @@
-﻿@[toc]
-
-[github链接](https://github.com/David-deng-yeah/Leasing_Luxury-DBSystem)
+# this is a repository about the database system final assignment
 ##  实验环境
 PHP == 5.5.12
 
