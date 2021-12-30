@@ -1,4 +1,4 @@
-# this is a repository about the database system final assignment
+this is a repository about the database system final assignment
 ##  实验环境
 PHP == 5.5.12
 
