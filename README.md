@@ -1,4 +1,5 @@
 this is a repository about the database system final assignment
+（很傻逼，但是当时没时间了[向晚_投降]）
 ##  实验环境
 PHP == 5.5.12
 
